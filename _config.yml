@@ -1,6 +1,6 @@
 # Site settings
-title: DentistSmile | Dental Jekyll Theme
-description: "A responsive Jekyll theme for dental clinics."
+title: Inés de Aguinaga | Ortodoncista infantil
+description: "Ortodoncia y odontología infantil."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the name of your domain
 logo_url: svg/min/logo.svg
@@ -8,7 +8,7 @@ logo_url: svg/min/logo.svg
 # Hero
 hero: 
     hero_img: hero.jpg
-    hero_title: DentistSmile
+    hero_title: Inés de Aguinaga
     hero_description: A responsive Jekyll theme for dental clinics.
 
 # Contact form
@@ -16,10 +16,11 @@ api_token: # Enter API token here
 
 # Contact info
 contact:
-    phone: 932 50 540
-    emergency: 931 53 234
-    email: contact@yoursite.com
-    address: Von schroeders 273, <br> Viña del mar - Chile
+    phone: 654 068 673
+    whatsapp: 654 068 673
+    emergency: 654 068 673
+    email: contact@ines.deaguinaga.com
+    address: Clínica RISESA<br>C/ Cincel 1 (Polígono Santa Ana), <br> 28522 Rivas-Vaciamadrid (Madrid) - España
 
 # Opening hours
 monday_friday: 9:00 – 18:00
@@ -33,7 +34,7 @@ testimonials:
 # Map
 map:
     zoom: 17
-    address: Von schroeders 273, Viña del mar, Chile
+    address: Clínica RISESA<br>C/ Cincel 1 (Polígono Santa Ana), <br> 28522 Rivas-Vaciamadrid (Madrid) - España
     address_details: svg/min/logo.svg
 
 # Social settings
@@ -41,11 +42,11 @@ facebook: http://facebook.com
 twitter: http://twitter.com
 instagram: http://instagram.com
 youtube: http://youtube.com
-skype: skype:obaez_design?userinfo
+#skype: skype:obaez_design?userinfo
 feed: yes
 
 # Footer
-copyright: © 2015 DentistSmile - All rights reserved
+copyright: © 2015 Inés de Aguinaga - Todos los derechos reservados
 
 # Build settings
 markdown: kramdown
