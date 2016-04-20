@@ -16,16 +16,16 @@ api_token: # Enter API token here
 
 # Contact info
 contact:
-    phone: 654 068 673
-    whatsapp: 654 068 673
-    emergency: 654 068 673
+    phone: 627 60 82 16
+    whatsapp: 627 60 82 16
+    emergency: 627 60 82 16
     email: citas@deaguinaga.es
     address: Clínica Risesa<br>C/ Cincel 1 (Polígono Santa Ana), <br> 28522 Rivas-Vaciamadrid (Madrid) - España
 
 # Opening hours
-monday_friday: 9:00 – 18:00
-saturday: 10:00 – 17:00
-sunday: 10:00 – 15:00
+monday_friday: 10:00 – 13:30 / 16:00 - 20:30
+#saturday: 10:00 – 17:00
+#sunday: 10:00 – 15:00
 
 # Testimonials
 testimonials:
@@ -38,15 +38,15 @@ map:
     address_details: svg/min/logo.svg
 
 # Social settings
-facebook: http://facebook.com
-twitter: http://twitter.com
-instagram: http://instagram.com
-youtube: http://youtube.com
+#facebook: http://facebook.com
+#twitter: http://twitter.com
+#instagram: http://instagram.com
+#youtube: http://youtube.com
 #skype: skype:obaez_design?userinfo
-feed: yes
+#feed: yes
 
 # Footer
-copyright: © 2015 Inés de Aguinaga - Todos los derechos reservados
+copyright: © 2016 Inés de Aguinaga - Todos los derechos reservados
 
 # Build settings
 markdown: kramdown
