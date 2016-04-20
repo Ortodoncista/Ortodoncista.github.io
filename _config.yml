@@ -23,7 +23,9 @@ contact:
     address: Clínica Risesa<br>C/ Cincel 1 (Polígono Santa Ana), <br> 28522 Rivas-Vaciamadrid (Madrid) - España
 
 # Opening hours
-monday_friday: 10:00 – 13:30 / 16:00 - 20:30
+monday_friday:
+mañanas: 10:00 – 13:30
+tardes: 16:00 - 20:30
 #saturday: 10:00 – 17:00
 #sunday: 10:00 – 15:00
 
