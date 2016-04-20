@@ -58,14 +58,22 @@ layout: default
                     <td>De lunes a viernes</td>
                     <td>{{ site.monday_friday }}</td>
                 </tr>
-                <tr>
+                {% if site.mañanas %}<tr>
+                    <td>Mañanas</td>
+                    <td>{{ site.mañanas }}</td>
+                </tr>{% endif %}
+                {% if site.tardes %}<tr>
+                    <td>Tardes</td>
+                    <td>{{ site.tardes }}</td>
+                </tr>{% endif %}
+                {% if site.saturday %}<tr>
                     <td>Sábado</td>
                     <td>{{ site.saturday }}</td>
-                </tr>
-                <tr>
+                </tr>{% endif %}
+                {% if site.sunday %}<tr>
                     <td>Domingo</td>
                     <td>{{ site.sunday }}</td>
-                </tr>
+                </tr>{% endif %}
             </tbody>
         </table>
     </div>
